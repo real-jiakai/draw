@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T11:15:20.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oK79Wt-S9mU5o7x-uf_0" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T11:29:56.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fFHD6zUbQsOlfGfiSkQX" version="21.1.7" type="github">
   <diagram name="Page-1" id="aB_r5PY3af-Wt2mRhB-6">
     <mxGraphModel dx="837" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="oU_2HzLyE97Z_0676YHU-5" value="访客网站（website，如有）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="340" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oU_2HzLyE97Z_0676YHU-6" value="评论信息（content）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oU_2HzLyE97Z_0676YHU-6" value="访客评论信息（content）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oU_2HzLyE97Z_0676YHU-7" value="文章链接（url）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
