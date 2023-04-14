@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T11:01:52.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WkChvh3_87zuE-6W6p5Y" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T11:29:03.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rwpVbY_ykhcgMDlkd_mf" version="21.1.7" type="github">
   <diagram name="Page-1" id="o-LaHNdq6tNX6qss74UB">
     <mxGraphModel dx="533" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,6 +32,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="410" as="sourcePoint" />
             <mxPoint x="530" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uULMXHFzQDfnKXOe5Zbr-9" value="访客评论（content）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uULMXHFzQDfnKXOe5Zbr-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="uULMXHFzQDfnKXOe5Zbr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="sourcePoint" />
+            <mxPoint x="330" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
