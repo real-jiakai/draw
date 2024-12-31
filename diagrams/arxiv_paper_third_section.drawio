@@ -98,7 +98,12 @@
           <mxGeometry x="601" y="739" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AyWGeNoxoa-37tQaOYcG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-DavWtna-uUhui-5MiI-40" target="X-DavWtna-uUhui-5MiI-42">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="972" y="891" />
+              <mxPoint x="972" y="953" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X-DavWtna-uUhui-5MiI-40" value="Keyword Search" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="861" width="120" height="60" as="geometry" />
@@ -107,8 +112,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1015.6521739130435" y="951.9565217391305" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="975" y="1003" />
-              <mxPoint x="975" y="952" />
+              <mxPoint x="972" y="1003" />
+              <mxPoint x="972" y="952" />
             </Array>
           </mxGeometry>
         </mxCell>
