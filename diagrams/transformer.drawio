@@ -310,6 +310,12 @@
         <mxCell id="p4HSsbGvhBqvbneX5CNZ-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输出概率&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="347.63" y="351" width="77" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="osJvEIQcxStavoDguWPb-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Nx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="799" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="osJvEIQcxStavoDguWPb-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Nx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="738" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
