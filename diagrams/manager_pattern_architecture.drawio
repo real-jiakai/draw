@@ -23,7 +23,7 @@
           <mxGeometry x="-250" y="114" width="330" height="54" as="geometry" />
         </mxCell>
         <mxCell id="6KfYh5dqZeGjwEIS6Aim-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;将“hello”翻译成西班牙语、法语和意大利语！&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-248" y="126" width="325" height="30" as="geometry" />
+          <mxGeometry x="-245" y="126" width="325" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6KfYh5dqZeGjwEIS6Aim-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-115" y="222" width="60" height="30" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="6KfYh5dqZeGjwEIS6Aim-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillStyle=auto;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="139" y="72" width="148" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="6KfYh5dqZeGjwEIS6Aim-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;管理者&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6KfYh5dqZeGjwEIS6Aim-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;管理者&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="155" width="129" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6KfYh5dqZeGjwEIS6Aim-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
