@@ -409,16 +409,16 @@
           <mxGeometry x="1446.5" y="1011.75" width="150" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fmNg_jpIAyJqXXn-QGbe-1" value="&lt;span style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; text-align: left;&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;font style=&quot;font-size: 20px; color: rgb(25, 25, 25);&quot;&gt;&lt;b&gt;②&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1138" y="662.5" width="47" height="28" as="geometry" />
+          <mxGeometry x="1138" y="662.5" width="39" height="28" as="geometry" />
         </mxCell>
         <mxCell id="fmNg_jpIAyJqXXn-QGbe-2" value="&lt;span style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; text-align: left;&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;①&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="978" y="661.5" width="40" height="29" as="geometry" />
         </mxCell>
         <mxCell id="fmNg_jpIAyJqXXn-QGbe-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 20px;&quot;&gt;&lt;font face=&quot;Inter, sans-serif&quot;&gt;&lt;b&gt;③&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1307" y="658.5" width="40" height="29" as="geometry" />
+          <mxGeometry x="1305" y="660" width="34" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="fmNg_jpIAyJqXXn-QGbe-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25); font-size: 20px;&quot; face=&quot;Inter, sans-serif&quot;&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;④&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="657" width="38" height="32" as="geometry" />
+        <mxCell id="fmNg_jpIAyJqXXn-QGbe-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px; color: rgb(25, 25, 25);&quot; face=&quot;Inter, sans-serif&quot;&gt;&lt;b style=&quot;&quot;&gt;④&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1444" y="655.5" width="38" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
