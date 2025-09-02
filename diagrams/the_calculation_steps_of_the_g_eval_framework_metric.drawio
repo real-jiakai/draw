@@ -32,7 +32,7 @@
           <mxGeometry x="853" y="394.25" width="139" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_sGb873wrfGEALdS0r91-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生成分数 (1-10)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="861" y="396.25" width="123" height="46" as="geometry" />
+          <mxGeometry x="864.5" y="395" width="116" height="46" as="geometry" />
         </mxCell>
         <mxCell id="_sGb873wrfGEALdS0r91-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="_sGb873wrfGEALdS0r91-9">
           <mxGeometry relative="1" as="geometry">
@@ -43,7 +43,7 @@
           <mxGeometry x="1074" y="388.75" width="187" height="59" as="geometry" />
         </mxCell>
         <mxCell id="_sGb873wrfGEALdS0r91-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;使用词元（token）概率归一化并除以10&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1077.5" y="396.25" width="180" height="46" as="geometry" />
+          <mxGeometry x="1080.5" y="396.25" width="174" height="46" as="geometry" />
         </mxCell>
         <mxCell id="_sGb873wrfGEALdS0r91-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1337" y="394" width="120" height="48" as="geometry" />
