@@ -96,13 +96,13 @@
           <mxGeometry x="-195" y="140.25" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;多源混合检索模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="181" y="194.5" width="165" height="30" as="geometry" />
+          <mxGeometry x="184.5" y="194.5" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;检索结果精炼模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="486.88" y="158" width="137.25" height="26" as="geometry" />
+          <mxGeometry x="486.87" y="158.5" width="137.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;领域专家模型生成模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="761" y="170.25" width="165" height="26" as="geometry" />
+          <mxGeometry x="759.5" y="170.25" width="163" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="Qs5N4TBXDYmj6YVrBP2Y-6" target="Qs5N4TBXDYmj6YVrBP2Y-24">
           <mxGeometry relative="1" as="geometry" />
