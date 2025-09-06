@@ -67,7 +67,7 @@
           <mxGeometry x="211" y="254" width="206" height="52" as="geometry" />
         </mxCell>
         <mxCell id="qxGBXVRAMQtbO13ppMym-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;pgvector语义检索&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="221.5" y="193" width="139" height="30" as="geometry" />
+          <mxGeometry x="223" y="197" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxGBXVRAMQtbO13ppMym-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;tsvector关键字检索&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="223" y="270" width="139" height="18" as="geometry" />
