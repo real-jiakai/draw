@@ -4,44 +4,122 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0KO5zPI1rOB74gBpKULq-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段1:公司历史&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11" y="171" width="122" height="36" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="390" width="951" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-2" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;农夫山泉成立于&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;1996年，总部位于&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;浙江杭州...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="218" width="142" height="79" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="OnfYdnbRDw-gH4hWLcBK-26" target="OnfYdnbRDw-gH4hWLcBK-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段2:水源地&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="208" y="171" width="122" height="36" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="56" width="971" height="262" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-4" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;千岛湖是农夫山泉&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;的主要水源地之一...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="208" y="218" width="151" height="60" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#F19C99;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="115" width="556" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段3:产品线&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="406" y="174" width="122" height="36" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="767" y="166" width="147.5" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-6" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;包括饮用天然水、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;果汁、茶饮料等&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;系列...（当前片段）&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="406" y="216" width="140.5" height="76" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="567" y="166" width="147.5" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段4:市场份额&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="578" y="169" width="122" height="36" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="386" y="150.75" width="134" height="141.5" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-8" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;2023年农夫山泉&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;在中国瓶装水市场&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;占有...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="210" width="140.5" height="76" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="181" y="166" width="154" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段5:发展&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="788" y="164" width="122" height="36" as="geometry" />
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="165" width="144" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-10" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;未来将继续&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;扩展国际...&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="804" y="210" width="98.5" height="59" as="geometry" />
+        <mxCell id="0KO5zPI1rOB74gBpKULq-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段1:公司历史&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-9" y="181.5" width="124" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-11" value="&lt;div&gt;&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;步骤1：收集邻近片段&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-56" y="465" width="189" height="36" as="geometry" />
+        <mxCell id="0KO5zPI1rOB74gBpKULq-2" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;农夫山泉成立于&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;1996年，总部位于&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;浙江杭州...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-14.5" y="199.5" width="121" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-12" value="&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;步骤2：生成上下文描述&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-58" y="541" width="189" height="36" as="geometry" />
+        <mxCell id="0KO5zPI1rOB74gBpKULq-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段2:水源地&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="193" y="182" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="0KO5zPI1rOB74gBpKULq-13" value="&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;步骤3：生成增强后的片段&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-74" y="612" width="189" height="36" as="geometry" />
+        <mxCell id="0KO5zPI1rOB74gBpKULq-4" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;千岛湖是农夫山泉&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;的主要水源地之一...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="189.5" y="207" width="137" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;片段3:产品线&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="398.5" y="163.25" width="113" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-6" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;包括饮用天然水、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;果汁、茶饮料等&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;系列...&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="394.5" y="186.75" width="117" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段4:市场份额&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580.5" y="179" width="120.5" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-8" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;2023年农夫山泉&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;在中国瓶装水市场&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;占有...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="576.5" y="199.5" width="129.5" height="73.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段5:发展&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="779.75" y="175.75" width="114.25" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-10" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;未来将继续&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(25, 25, 25);&quot; face=&quot;Helvetica&quot;&gt;扩展国际...&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="796.75" y="206" width="88" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-11" value="&lt;div&gt;&lt;div style=&quot;line-height: 24px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25); font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;步骤1：收集邻近片段&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-17.5" y="401" width="204.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-12" value="&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;&lt;b&gt;步骤2：生成上下文描述&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-48" y="733" width="189" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0KO5zPI1rOB74gBpKULq-13" value="&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;&lt;b&gt;步骤3：生成增强后的片段&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-64" y="804" width="189" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;原始文档：《农夫山泉品牌发展研究报告》&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="72" width="372" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="178.5" y="449" width="152" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段2（前1个）&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="199.25" y="471" width="113" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-10" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(25, 25, 25);&quot;&gt;千岛湖是&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(25, 25, 25), rgb(216, 216, 216)); background-color: transparent;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="213.5" y="495" width="78.75" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="446" width="134" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;片段3（当前）&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="466" width="103.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-13" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font color=&quot;#191919&quot;&gt;产品线...&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="493.5" width="69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="449" width="152" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;片段4（后1个）&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="608.5" y="467.25" width="114" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-16" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(25, 25, 25), rgb(216, 216, 216)); background-color: transparent;&quot;&gt;市场份额...&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="626" y="497" width="75" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="236.75" y="704" width="543" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-19" value="&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;调用LLM分析片段3在文档中的位置和作用：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;这是关于农夫山泉产品线介绍的部分，位于公司历史和水源地介绍之后，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;市场份额分析之前，主要阐述了公司的多元化产品战略。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254.75" y="714" width="521" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="193" y="928" width="585" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-21" value="&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: pre;&quot;&gt;&lt;b&gt;增强后的片段3：&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414.25" y="931" width="114.75" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-22" value="&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;原始内容：包括饮用天然水、果汁、茶饮料等系列...&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;上下文：这是关于农夫山泉产品线介绍的部分，位于公司历史和水源地介绍之后，市场份额分析之前，主要阐述了公司的多元化产品战略。&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289" y="1015" width="385.5" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-24" value="&lt;div style=&quot;font-size: 16px; line-height: 24px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 24px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;滑动窗口（window_size =1）&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354.25" y="118" width="204.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="OnfYdnbRDw-gH4hWLcBK-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;（当前片段）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="266.75" width="94" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
