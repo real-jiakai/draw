@@ -71,7 +71,7 @@
         <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="48" width="114" x="-40" y="187" as="geometry" />
         </mxCell>
-        <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户查询翻译&lt;/span&gt;" vertex="1">
+        <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;多语言翻译层&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="101" x="-33.5" y="197" as="geometry" />
         </mxCell>
         <mxCell id="Qs5N4TBXDYmj6YVrBP2Y-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
