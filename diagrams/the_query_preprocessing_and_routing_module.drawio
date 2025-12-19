@@ -70,7 +70,7 @@
         <mxCell id="HQn79kBJnCLvMgGQiG4q-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;翻译层&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="24.25" width="104" x="284" y="299.5" as="geometry" />
         </mxCell>
-        <mxCell id="HQn79kBJnCLvMgGQiG4q-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;处理后的查询&lt;/font&gt;" vertex="1">
+        <mxCell id="HQn79kBJnCLvMgGQiG4q-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;多源混合检索&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="723" y="361.5" as="geometry" />
         </mxCell>
         <mxCell id="HQn79kBJnCLvMgGQiG4q-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入：中文查询 -&amp;gt; 目标：papers -&amp;gt; 输出：英文查询&lt;/font&gt;" vertex="1">
