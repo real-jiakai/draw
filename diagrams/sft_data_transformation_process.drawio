@@ -1,73 +1,77 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="kgFFcwLoHVZhnQqkf8RO">
-    <mxGraphModel dx="3044" dy="1436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2563" dy="1060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-fEZfIhr2ibPiL11naqr-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="227.75" width="396" height="186.5" as="geometry" />
+        <mxCell id="-fEZfIhr2ibPiL11naqr-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="186.5" width="396" x="-509" y="1172" as="geometry" />
         </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="-fEZfIhr2ibPiL11naqr-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1271.230769230769" y="320.38461538461524" as="targetPoint" />
+        <mxCell id="-fEZfIhr2ibPiL11naqr-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="94" width="244" x="-433" y="996" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="227" width="317" x="-467" y="686" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="148" width="397" x="-507" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="94" width="368" x="-487" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;原始数据&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="101" x="-348.5" y="281.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-2" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Input：What is LLM-based Agent?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Output：Agents are models using tools in a loop.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="43" width="354" x="-480" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-4" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Alpaca格式&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="-362" y="459" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-5" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;instruction&quot;: &quot;What is LLM-based Agent?&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;input&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;output&quot;: &quot;Agents are models using tools in a loop.&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="116" width="379" x="-495" y="485.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Qwen3 ChatML模版&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="202.75" x="-400" y="689.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-8" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_start|&amp;gt;system&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;You are a helpful assistant.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_end|&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_start|&amp;gt;user&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;What is LLM-based Agent?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_end|&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_start|&amp;gt;assistant&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Agents are models using tools in a loop.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_end|&amp;gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="172.5" width="287" x="-442.12" y="723.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;151644, 8948, 198, 2675, 389, 264, ...&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="176.5" x="-399.25" y="1049" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;分词处理Tokenizer&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="202.75" x="-412.37" y="1012.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-13" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;input_ids&quot;: [151644, 8948, 198, 2675, ...],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;attention_mask&quot;: [1, 1, 1, 1, 1, 1, ...],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;labels&quot;: [-100, -100, -100, ..., 389, 4211, 1701, ...]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="142.5" width="366" x="-494" y="1204.25" as="geometry" />
+        </mxCell>
+        <mxCell id="-fEZfIhr2ibPiL11naqr-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;训练数据最终格式&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="202.75" x="-412.3700000000001" y="1189.25" as="geometry" />
+        </mxCell>
+        <mxCell id="4fERjlkArYSX5JE5xSem-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-303.71" y="372" as="sourcePoint" />
+            <mxPoint x="-303.71" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="916" y="274" width="244" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="-fEZfIhr2ibPiL11naqr-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="911.230769230769" y="320.38461538461524" as="targetPoint" />
+        <mxCell id="4fERjlkArYSX5JE5xSem-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-309.21" y="601.75" as="sourcePoint" />
+            <mxPoint x="-309.21" y="682.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="488" y="207.5" width="317" height="227" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="-fEZfIhr2ibPiL11naqr-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="486.6153846153843" y="325" as="targetPoint" />
+        <mxCell id="4fERjlkArYSX5JE5xSem-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-309.21" y="913" as="sourcePoint" />
+            <mxPoint x="-309.21" y="994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-24" y="251" width="397" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="-fEZfIhr2ibPiL11naqr-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-25.692307692307622" y="325" as="targetPoint" />
+        <mxCell id="4fERjlkArYSX5JE5xSem-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-309.21000000000004" y="1090" as="sourcePoint" />
+            <mxPoint x="-309.21000000000004" y="1171" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-487" y="278" width="368" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;原始数据&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-348.5" y="281.5" width="101" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Input：What is LLM-based Agent?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Output：Agents are models using tools in a loop.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="314" width="354" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Alpaca格式&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="121" y="255" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;instruction&quot;: &quot;What is LLM-based Agent?&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;input&quot;: &quot;&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;output&quot;: &quot;Agents are models using tools in a loop.&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="281.75" width="379" height="116" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Qwen3 ChatML模版&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="555" y="211" width="202.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-8" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_start|&amp;gt;system&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;You are a helpful assistant.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_end|&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_start|&amp;gt;user&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;What is LLM-based Agent?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_end|&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_start|&amp;gt;assistant&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Agents are models using tools in a loop.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;lt;|im_end|&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="512.88" y="245" width="287" height="172.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;151644, 8948, 198, 2675, 389, 264, ...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="949.75" y="327" width="176.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;分词处理Tokenizer&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="936.63" y="290.5" width="202.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;input_ids&quot;: [151644, 8948, 198, 2675, ...],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;attention_mask&quot;: [1, 1, 1, 1, 1, 1, ...],&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &quot;labels&quot;: [-100, -100, -100, ..., 389, 4211, 1701, ...]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="260" width="366" height="142.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-fEZfIhr2ibPiL11naqr-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;训练数据最终格式&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1371.6299999999999" y="245" width="202.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
