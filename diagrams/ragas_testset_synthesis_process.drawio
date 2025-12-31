@@ -94,7 +94,7 @@
         <mxCell id="MYFG9k5j27I_2gZLGBYB-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 179, 102);&quot;&gt;&lt;b&gt;示例文档内容：&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="122" x="-184.5" y="171.75" as="geometry" />
         </mxCell>
-        <mxCell id="MYFG9k5j27I_2gZLGBYB-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font size=&quot;3&quot;&gt;语言模型起源于2017年&lt;/font&gt;" vertex="1">
+        <mxCell id="MYFG9k5j27I_2gZLGBYB-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font size=&quot;3&quot;&gt;通义千问发布于2023年&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="168" x="199" y="144.75" as="geometry" />
         </mxCell>
         <mxCell id="MYFG9k5j27I_2gZLGBYB-15" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font size=&quot;3&quot;&gt;核心技术涵盖检索增强、模型微调等&lt;/font&gt;" vertex="1">
