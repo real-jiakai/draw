@@ -113,7 +113,7 @@
           <mxGeometry height="30" width="123" x="273" y="336" as="geometry" />
         </mxCell>
         <mxCell id="iNCP7ir2LUuRdADV9gHL-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;固定长度分块&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;递归分块&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;语义分块&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;上下文增强分块&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="81" width="149" x="251" y="355" as="geometry" />
+          <mxGeometry height="81" width="149" x="247" y="355" as="geometry" />
         </mxCell>
         <mxCell id="iNCP7ir2LUuRdADV9gHL-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(150, 115, 166); font-size: 14px;&quot;&gt;向量表示优化&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="123" x="409.5" y="338" as="geometry" />
