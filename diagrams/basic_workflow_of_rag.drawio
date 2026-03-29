@@ -180,7 +180,7 @@
         <mxCell id="BMIXl8544O72_c49qeJY-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;检索上下文&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="85" x="-20.5" y="1064" as="geometry" />
         </mxCell>
-        <mxCell id="BMIXl8544O72_c49qeJY-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="将Top-K文本块作为参考知识注入" vertex="1">
+        <mxCell id="BMIXl8544O72_c49qeJY-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="将Top-3文本块作为参考知识注入" vertex="1">
           <mxGeometry height="30" width="103" x="-28.5" y="1098" as="geometry" />
         </mxCell>
         <mxCell id="BMIXl8544O72_c49qeJY-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;原始查询&lt;/b&gt;&lt;/span&gt;" vertex="1">
