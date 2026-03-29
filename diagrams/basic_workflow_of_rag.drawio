@@ -195,7 +195,7 @@
         <mxCell id="BMIXl8544O72_c49qeJY-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结构化组装为增强Prompt&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="103" x="506.5" y="1098" as="geometry" />
         </mxCell>
-        <mxCell id="BMIXl8544O72_c49qeJY-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统指令：&lt;/b&gt;你是一位RAG技术专家，请给予以下参考资料回答用户问题&lt;/font&gt;" vertex="1">
+        <mxCell id="BMIXl8544O72_c49qeJY-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统指令：&lt;/b&gt;你是一位RAG技术专家，请基于以下参考资料回答用户问题&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="445" x="-19" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="BMIXl8544O72_c49qeJY-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;参考资料：&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;①GraphRAG通过构建知识图谱实体-关系网络...&lt;/div&gt;&lt;div&gt;②LightRAG采用双层检索架构...&lt;/div&gt;&lt;div&gt;③GraphRAG的Community Summary机制...&lt;/div&gt;&lt;/div&gt;" vertex="1">
